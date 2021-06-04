@@ -1,13 +1,13 @@
-# 
+#
 # Example .tfvars file
 # Can be copied to terraform.tfvars and edited so that Terraform will automatically use variables from this file.
 #
 
 #name = "testsjc2"
 
-globalwsname = "sb_globalvar"
+globalwsname = "dCloud_rtp_k8_globalvar"
 # profile params
-# IP Pool name and moid 
+# IP Pool name and moid
 #ippool_list = "testsjcippool"
 
 # Netcfg name
@@ -29,6 +29,3 @@ globalwsname = "sb_globalvar"
 #masterinfraname = "masterinfranamesjc"
 #infrapolname = "testsjcinfrapol"
 #instancetypename = "testsjcinstancetype"
-
-
-
