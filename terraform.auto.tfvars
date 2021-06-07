@@ -5,7 +5,7 @@
 
 #name = "testsjc2"
 
-globalwsname = "dCloud_rtp_k8_globalvar"
+globalwsname = "rtp-iks-cluster-01-global"
 # profile params
 # IP Pool name and moid
 #ippool_list = "testsjcippool"
